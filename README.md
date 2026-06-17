@@ -1,0 +1,1 @@
+# TrainerBot\n\nAutonomous AI Research and ML Engineering Organization.\n\n## Architecture\n\nTrainerBot (Chief AI Scientist) coordinates specialized agents for end-to-end ML.\n
